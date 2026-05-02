@@ -1,0 +1,12 @@
+streamlit==1.39.0
+streamlit-webrtc==0.47.9
+ultralytics
+opencv-python-headless
+av
+torch
+torchvision
+numpy<2
+pillow
+scipy
+matplotlib
+tornado==6.4.1
